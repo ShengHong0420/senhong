@@ -7,5 +7,5 @@ from datasets import load_dataset
 # 下載 test split
 # test_ds  = Food101(root="data/food101", split="test",  download=True)
 
-ds = load_dataset("tiennv/uecfood256", cache_dir="/data/hf_datasets")
-ds.save_to_disk("/data/uecfood256")
+# ds = load_dataset("tiennv/uecfood256", cache_dir="/data/hf_datasets")
+# ds.save_to_disk("/data/uecfood256")
