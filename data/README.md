@@ -9,4 +9,5 @@
     - 執行split_data.py
 - uecfood256 :
     - 執行split_uecfood256.py
+
 [warning] 兩個py檔產生都是test / train資料夾，用第二個之前可能要改名
